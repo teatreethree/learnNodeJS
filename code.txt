@@ -1,0 +1,2 @@
+Or have a look at the Long Term Support (LTS) schedule.
+Sign up for Node.js Everywhere, the official Node.js Monthly Newsletter.
